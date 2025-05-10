@@ -34,7 +34,8 @@
 ---
 ### 📝 Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahakamal-e&langs_count=10)](https://github.com/mahakamal-e/github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahakamal-e&hide=Perl,Tcl&theme=light)
+
 
 ### 📫 Connect With Me
 
